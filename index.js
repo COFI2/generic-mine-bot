@@ -67,7 +67,7 @@ const Monitor = require("ping-monitor")
 
 keepAlive();
 const monitor = new Monitor({
-  website: "no",
+  website: "https://minar-zz.godcc.repl.co",
   title: "Generic mine bot",
   interval: 5
 })
